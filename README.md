@@ -18,8 +18,9 @@ FiveM :
 🏆 WIP 
 
 - 🏆 natann_phone 
+- 🏆 natann_webrp
 - 🏆 natann_server
-- 🏆 natann_panellspd
+- 🏆 natann_lspdpanel
 
 
 <!--END_SECTION:activity-->
