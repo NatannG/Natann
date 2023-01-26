@@ -17,9 +17,5 @@
 
 <br />
 
-<br />
-<br />
-
----
 
 [discord]: Natann#3628
